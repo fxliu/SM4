@@ -32,4 +32,4 @@ echo "<br>明文：".$original_plain_text_data;
 echo "<br>密文：".$encrypted_text_data;
 echo "<br>解密：".$encrypted_text_2_plain_text;
 
-echo "备注：字符串加密(encryptData)在数据加密(encrypt)的基础上加了已成数据混淆";
+echo "备注：字符串加密(encryptData)在数据加密(encrypt)的基础上加了补充了数据混淆";
